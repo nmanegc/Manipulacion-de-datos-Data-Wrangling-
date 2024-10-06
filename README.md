@@ -5,8 +5,6 @@ Instacart es una plataforma de entregas de comestibles donde la clientela puede 
 
 El objetivo de este proyecto fue limpiar los datos y preparar un informe que brinde información sobre los hábitos de compra de los clientes de Instacart. 
 
-En el siguiente enlace encontrarás el desarrollo del proyecto en formato Jupyter Notebook `Insertar enlace a notebook en git`
-
 Durante la realización de este proyecto pude poner en práctica mis habilidades en:
 
 - Leer datos de diferentes fuentes y formatos.
